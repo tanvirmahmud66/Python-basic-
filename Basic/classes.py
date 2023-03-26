@@ -13,5 +13,8 @@ flight_use.add_passenger("Tanvir")
 flight_use.add_passenger("Mahmud")
 flight_use.add_passenger("Fahim")
 flight_use.add_passenger("Rahim")
+flight_use.add_passenger("Karim")
+flight_use.add_passenger("Abdul")
+
 
 print(flight_use.passenger)
